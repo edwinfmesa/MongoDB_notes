@@ -1,4 +1,4 @@
 MongoDB_notes
 =============
 
-This is my notes about MongoDB for the course M101 n education.10gen.com
+This is my note about MongoDB for the course M101 in education.10gen.com
